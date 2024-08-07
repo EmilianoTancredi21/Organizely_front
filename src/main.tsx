@@ -5,6 +5,6 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <h1>Hola mundo</h1>
+    <h1 className="text-3xl">Hola mundo</h1>
   </React.StrictMode>
 );
